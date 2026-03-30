@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "О, Боже, какой мужчина!",
+  "base_artist": "Натали",
+  "createdAt": "2026-03-30T15:28:53.602200Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "О, Боже, какой мужчина!",
+      "artist": "Натали",
+      "has_synced": false,
+      "path": "select/01_О,_Боже,_какой_мужчина!_Натали.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "О, Боже, какой мужчина!",
+      "artist": "Natali",
+      "has_synced": false,
+      "path": "select/02_О,_Боже,_какой_мужчина!_Natali.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "О, Боже, какой мужчина! (караоке версия)",
+      "artist": "Натали",
+      "has_synced": false,
+      "path": "select/03_О,_Боже,_какой_мужчина!_(караоке_версия)_Натали.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "О Боже, какой мужчина!",
+      "artist": "Натали",
+      "has_synced": false,
+      "path": "select/04_О_Боже,_какой_мужчина!_Натали.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "О, Боже, какой мужчина! (Vitalik Vitamin remix)",
+      "artist": "Натали",
+      "has_synced": false,
+      "path": "select/05_О,_Боже,_какой_мужчина!_(Vitalik_Vitamin_remix)_Натали.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "О Боже Какой Мужчина",
+      "artist": "Natali",
+      "has_synced": false,
+      "path": "select/06_О_Боже_Какой_Мужчина_Natali.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "О, Боже, какой мужчина! (Dj Amor remix)",
+      "artist": "Натали",
+      "has_synced": true,
+      "path": "select/07_О,_Боже,_какой_мужчина!_(Dj_Amor_remix)_Натали.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "68. Натали - О Боже, какой мужчина (Dj Amor Remix)",
+      "artist": "NRJ",
+      "has_synced": true,
+      "path": "select/08_68._Натали_-_О_Боже,_какой_мужчина_(Dj_Amor_Remix)_NRJ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "О Боже, Какой Мужчина!",
+      "artist": "Натали",
+      "has_synced": false,
+      "path": "select/pl_01_О_Боже,_Какой_Мужчина!_Натали.txt"
+    }
+  ]
+}
